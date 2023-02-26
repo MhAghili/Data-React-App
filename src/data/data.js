@@ -1,0 +1,123 @@
+export const books = [
+  {
+    id: 1,
+    title: "Route 666",
+    author: "Chlo Snashall",
+    imageUrl: "http://dummyimage.com/209x100.png/5fa2dd/ffffff",
+  },
+  {
+    id: 2,
+    title: "SherryBaby",
+    author: "Dexter Hawgood",
+    imageUrl: "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
+  },
+  {
+    id: 3,
+    title: "Master of Ballantrae, The",
+    author: "Phyllis Gammage",
+    imageUrl: "http://dummyimage.com/196x100.png/ff4444/ffffff",
+  },
+  {
+    id: 4,
+    title: "One Hundred Mornings",
+    author: "Catherin Harlow",
+    imageUrl: "http://dummyimage.com/206x100.png/dddddd/000000",
+  },
+  {
+    id: 5,
+    title:
+      "Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The)",
+    author: "Lin Quantrill",
+    imageUrl: "http://dummyimage.com/190x100.png/5fa2dd/ffffff",
+  },
+  {
+    id: 6,
+    title: "Zero Years, The",
+    author: "Guglielmo Samways",
+    imageUrl: "http://dummyimage.com/170x100.png/dddddd/000000",
+  },
+  {
+    id: 7,
+    title: "Piano Teacher, The (La pianiste)",
+    author: "Sherie Donlon",
+    imageUrl: "http://dummyimage.com/129x100.png/cc0000/ffffff",
+  },
+  {
+    id: 8,
+    title: "Wild Geese, The",
+    author: "Sidnee Carme",
+    imageUrl: "http://dummyimage.com/159x100.png/dddddd/000000",
+  },
+  {
+    id: 9,
+    title: "See No Evil",
+    author: "Gretel Kellock",
+    imageUrl: "http://dummyimage.com/145x100.png/5fa2dd/ffffff",
+  },
+  {
+    id: 10,
+    title: "Uncommon Valor",
+    author: "Weylin Palffy",
+    imageUrl: "http://dummyimage.com/140x100.png/cc0000/ffffff",
+  },
+  {
+    id: 11,
+    title: "Addicted to Plastic",
+    author: "Sansone Boothe",
+    imageUrl: "http://dummyimage.com/133x100.png/ff4444/ffffff",
+  },
+  {
+    id: 12,
+    title: "Flying Scotsman, The",
+    author: "Francoise Edinburgh",
+    imageUrl: "http://dummyimage.com/234x100.png/ff4444/ffffff",
+  },
+  {
+    id: 13,
+    title: "What We Did on Our Holiday",
+    author: "Baudoin Cowndley",
+    imageUrl: "http://dummyimage.com/104x100.png/dddddd/000000",
+  },
+  {
+    id: 14,
+    title: "Merry War, A",
+    author: "Sheena Story",
+    imageUrl: "http://dummyimage.com/110x100.png/dddddd/000000",
+  },
+  {
+    id: 15,
+    title: "Becky Sharp",
+    author: "Warden Redwin",
+    imageUrl: "http://dummyimage.com/106x100.png/ff4444/ffffff",
+  },
+  {
+    id: 16,
+    title: "Werner - Das muss kesseln!!!",
+    author: "Marylou Stollwerk",
+    imageUrl: "http://dummyimage.com/152x100.png/5fa2dd/ffffff",
+  },
+  {
+    id: 17,
+    title: "Into the Blue 2: The Reef",
+    author: "Kassey Baggs",
+    imageUrl: "http://dummyimage.com/152x100.png/dddddd/000000",
+  },
+  {
+    id: 18,
+    title: "Great Muppet Caper, The",
+    author: "Rayner Trusler",
+    imageUrl: "http://dummyimage.com/233x100.png/cc0000/ffffff",
+  },
+  {
+    id: 19,
+    title: "Baby Face",
+    author: "Doreen Tanner",
+    imageUrl: "http://dummyimage.com/123x100.png/cc0000/ffffff",
+  },
+  {
+    id: 20,
+    title: "No Retreat, No Surrender",
+    author: "Leyla Chanson",
+    imageUrl: "http://dummyimage.com/172x100.png/5fa2dd/ffffff",
+  },
+];
